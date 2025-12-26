@@ -3,7 +3,7 @@ import google.generativeai as genai
 
 # --- KONFIGURASI HALAMAN ---
 st.set_page_config(
-    page_title="Scientific Editor Pro",
+    page_title="AI Scientific Editor Pro",
     page_icon="🧬",
     layout="wide"
 )
